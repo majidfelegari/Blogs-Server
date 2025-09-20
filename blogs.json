@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Mastering Markdown: A Beginner's Guide to formatting like a Pro!",
+        "thumbnail_url": "https://raw.githubusercontent.com/CodeInKotLang/AndroidBlogs-Server/refs/heads/main/images/markdown.jpeg",
+        "content_url": "https://raw.githubusercontent.com/CodeInKotLang/AndroidBlogs-Server/refs/heads/main/blogs/blog1.md"
+    },
+    {
+        "id": 2,
+        "title": "Understanding JSON: A Comprehensive Guide",
+        "thumbnail_url": "https://raw.githubusercontent.com/CodeInKotLang/AndroidBlogs-Server/refs/heads/main/images/json.jpeg",
+        "content_url": "https://raw.githubusercontent.com/CodeInKotLang/AndroidBlogs-Server/refs/heads/main/blogs/blog2.md"
+    },
+    {
+        "id": 3,
+        "title": "The Complete Guide to Room Database in Android for Efficient Data Storage",
+        "thumbnail_url": "https://raw.githubusercontent.com/CodeInKotLang/AndroidBlogs-Server/refs/heads/main/images/room.jpeg",
+        "content_url": "https://raw.githubusercontent.com/CodeInKotLang/AndroidBlogs-Server/refs/heads/main/blogs/blog3.md"
+    },
+    {
+        "id": 4,
+        "title": "Evolution of Android: A Brief History",
+        "thumbnail_url": "https://raw.githubusercontent.com/CodeInKotLang/AndroidBlogs-Server/refs/heads/main/images/android.jpeg",
+        "content_url": "https://raw.githubusercontent.com/CodeInKotLang/AndroidBlogs-Server/refs/heads/main/blogs/blog4.md"
+    },
+    {
+        "id": 5,
+        "title": "Layouts in Jetpack Compose: A Beginner's Guide",
+        "thumbnail_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQyCrAWdIb8-moiYuP7EdpznRLOLaKoZWJ04MLzMi1wkJrMfLKQshwXhB_ODNz3T6_aoOwQ0YccVpSbLO2K9qkpx-HTklvNm3ZR_spOINLr861_PgDXDnh6LgpptIyzR5Nv-UjlQ-5FyeLpHwOCb4NjZ8darLIomTVjHM2VvDv7YZdzO-FS6zMKEhlCQ/s1600/Android-JetpackCompose1.2-Social.png",
+        "content_url": "https://raw.githubusercontent.com/CodeInKotLang/AndroidBlogs-Server/refs/heads/main/blogs/blog5.md"
+    },
+    {
+        "id": 6,
+        "title": "Why Did Google Shift to Kotlin from Java?",
+        "thumbnail_url": "https://raw.githubusercontent.com/CodeInKotLang/AndroidBlogs-Server/refs/heads/main/images/kotlin_vs_java.jpg",
+        "content_url": "https://raw.githubusercontent.com/CodeInKotLang/AndroidBlogs-Server/refs/heads/main/blogs/blog6.md"
+    },
+    {
+        "id": 7,
+        "title": "Understanding Data Types in Kotlin",
+        "thumbnail_url": "https://raw.githubusercontent.com/CodeInKotLang/AndroidBlogs-Server/refs/heads/main/images/data_types.jpg",
+        "content_url": "https://raw.githubusercontent.com/CodeInKotLang/AndroidBlogs-Server/refs/heads/main/blogs/blog7.md"
+    }
+]
